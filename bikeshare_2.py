@@ -32,6 +32,7 @@ def get_filters():
     
 
     # get user input for month (all, january, february, ... , june)
+    # The data set does not include data for (july, august, september, october, novemeber, or december)
     print()
     while True:
         print('What month would you like to explore:', end = '')
