@@ -15,4 +15,11 @@ from three different cities.
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+*Books
+    *Learn Python the Hard Way by Zed Shaw
+    *Murach's Python Programming by Joel Murach
+*Websites
+    *Pandas 0.23.4 Documentation
+    *Python Documentation - docs.python.org
+    *Stack Overflow - stackoverflow.com
 
