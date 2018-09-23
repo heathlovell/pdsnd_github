@@ -38,28 +38,10 @@ def get_filters():
     while True:
         print('What month would you like to explore:', end = '')
         month = input('\nall, january, february, march, april, may, or june?\n')
-        if month.lower() == 'all':
-            month = 'all'
+        
+        if month.lower() in [all, january, february, march, april, may, june]:
             break
-        elif month.lower() == 'january':
-            month = 'january'
-            break
-        elif month.lower() == 'february':
-            month = 'february'
-            break
-        elif month.lower() == 'march':
-            month = 'march'
-            break
-        elif month.lower() == 'april':
-            month = 'april'
-            break
-        elif month.lower() == 'may':
-            month = 'may'
-            break
-        elif month.lower() == 'june':
-            month = 'june'
-            break
-
+        
 
     # get user input for day of week (all, monday, tuesday, ... sunday)
     # The code can handle user input with capital letters or lower case letters.
