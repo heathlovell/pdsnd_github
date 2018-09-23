@@ -5,7 +5,8 @@ Initial commit and README.md file first modified on 9/23/2018
 Udacity Bikeshare Project
 
 ### Description
-Describe what your project is about and what it does
+This project has a python file that allows the user to investigate the bicycle rideshare data
+from three different cities.
 
 ### Files used
 Include the files used
