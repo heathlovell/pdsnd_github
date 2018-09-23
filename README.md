@@ -23,3 +23,6 @@ It's important to give proper credit. Add links to any repo that inspired you or
     *Python Documentation - docs.python.org
     *Stack Overflow - stackoverflow.com
 
+### Built With
+Git Bash - terminal window
+Visual Studio Code - code editor
