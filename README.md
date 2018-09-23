@@ -1,5 +1,5 @@
 ### Date created
-Include the date you created this project and README file.
+Initial commit and README.md file first modified on 9/23/2018
 
 ### Project Title
 Replace the Project Title
