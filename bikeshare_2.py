@@ -62,6 +62,7 @@ def get_filters():
 
 
     # get user input for day of week (all, monday, tuesday, ... sunday)
+    # The code can handle user input with capital letters or lower case letters.
     print()
     while True:
         print('What day would you like to explore:', end = '')
